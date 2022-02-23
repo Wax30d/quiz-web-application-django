@@ -2,7 +2,11 @@
 task from Raqamli Dunyo
 
 To play with this repo:
- -clone project
- -configure venv
- -install django
- -runserver
+ 
+ 1. clone project;
+ 
+ 2. configure venv;
+ 
+ 3. install django;
+ 
+ 4. runserver.
